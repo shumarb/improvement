@@ -12,9 +12,9 @@ This folder contains information on MOOCs that I have completed.
 | [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals)                                                                    | [Link](https://www.linkedin.com/learning/certificates/d67916261bf37d5242cfea2fea3b98b5325c87a628272e775421ead1483e3ca4?u=78163626)                                                                                                                                                                                                                                                      |
 
 ### Coursera
-| Course                                                                                                                       | Resources                                                                           | Submissions   |
-|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------|
-| [Introduction to Relational Database and SQL](https://www.coursera.org/projects/introduction-to-relational-database-and-sql) | [Certificate](https://www.coursera.org/account/accomplishments/verify/ACTDGDEZMHWL) | -             |
+| Course                                                                                                                       | Resources                                                                           |
+|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| [Introduction to Relational Database and SQL](https://www.coursera.org/projects/introduction-to-relational-database-and-sql) | [Certificate](https://www.coursera.org/account/accomplishments/verify/ACTDGDEZMHWL) |
 
 ### Udemy
 | Course                                                                                                          | Resources                                                                                                                                                                                                       |
